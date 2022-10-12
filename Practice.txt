@@ -3,3 +3,5 @@
 3.learn manual testing
 4.learn rest api
 5.automate orange HRM
+6.Learn Postman
+8.Learn UI Path
