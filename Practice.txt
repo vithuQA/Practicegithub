@@ -1,3 +1,5 @@
 ﻿1.Hello world
 2.learn automation
 3.learn manual testing
+4.learn rest api
+5.automate orange HRM
