@@ -3,3 +3,4 @@
 3.learn manual testing
 4.Learn rest api
 5.Learn Selenium
+6.Learn Postman
