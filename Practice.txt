@@ -6,6 +6,8 @@
 6.Learn Postman
 7.Learn TestNG
 8.Learn TestCases
+9.Learn Sql
 9.Learn Performance testing
 10.Learn JMeter
 11.Learn Poster Sql
+
