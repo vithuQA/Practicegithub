@@ -6,3 +6,4 @@
 6.Learn Postman
 7.Learn TestNG
 8.Learn TestCases
+9.Learn Sql
